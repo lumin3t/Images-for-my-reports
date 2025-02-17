@@ -6,6 +6,7 @@
 ![OSI](https://github.com/user-attachments/assets/e8f45795-7521-44d2-93c9-d4a5a52b5730)
 ![Output](https://github.com/user-attachments/assets/f696541a-f852-4c7f-af5c-91d5d0fbdcbe)
 ![N-Map](https://github.com/user-attachments/assets/da1d7202-0e79-4131-9752-dc00ee76ecee)
+![Ummrao](https://github.com/user-attachments/assets/52794a88-7bf2-48e7-a51e-b33a1427ebfe)
 
 
 
