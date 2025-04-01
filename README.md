@@ -23,6 +23,9 @@
 ![PHP](https://github.com/user-attachments/assets/2bdd2331-7aba-4a3a-b0b8-4adc145cf6f8)
 ![AWS](https://github.com/user-attachments/assets/ad9db020-d36f-4a4d-9381-5d0c3b483565)
 ![Test AWS](https://github.com/user-attachments/assets/4b3a9bac-fc13-4c40-a805-1da953c59ea4)
+![File stolen](https://github.com/user-attachments/assets/85518c73-3fde-4361-80b4-491ab0d92dc7)
+![Uploaded file](https://github.com/user-attachments/assets/5c466d22-f7dc-413b-a102-2628eded3b40)
+
 
 
 
