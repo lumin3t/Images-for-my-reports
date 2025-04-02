@@ -27,7 +27,8 @@
 ![Uploaded file](https://github.com/user-attachments/assets/5c466d22-f7dc-413b-a102-2628eded3b40)
 ![scan.txt](https://github.com/user-attachments/assets/4ffe8806-7646-45e6-b051-310ccb3b9a02)
 ![Jenkinsfile](https://github.com/user-attachments/assets/f97d52e9-280d-461b-aea7-c0de97e03bb2)
-
+![init](https://github.com/user-attachments/assets/6535aa12-fe6d-4c5b-974b-9def76565a3d)
+![apply](https://github.com/user-attachments/assets/7ec1469d-1458-4253-bece-ce1d24614b1b)
 
 
 
