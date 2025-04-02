@@ -29,8 +29,7 @@
 ![Jenkinsfile](https://github.com/user-attachments/assets/f97d52e9-280d-461b-aea7-c0de97e03bb2)
 ![init](https://github.com/user-attachments/assets/6535aa12-fe6d-4c5b-974b-9def76565a3d)
 ![apply](https://github.com/user-attachments/assets/7ec1469d-1458-4253-bece-ce1d24614b1b)
-
-
+![main.tf](https://github.com/user-attachments/assets/ae924f6b-4a20-44bc-b0db-51149b72bb8c)
 
 
 
