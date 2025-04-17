@@ -38,6 +38,11 @@
 ![Order of growth](https://github.com/user-attachments/assets/88932ef4-e51d-4188-b0b8-820ebbc43bb9)
 ![Order of growth graph](https://github.com/user-attachments/assets/c5285c39-17bd-405d-b877-8c891562ae4c)
 ![Asymptotic notations](https://github.com/user-attachments/assets/5f89c244-39af-4bfa-9992-e8a4d636ab13)
+![Prim's algorithm](https://github.com/user-attachments/assets/e104f7db-34ff-498e-bd55-404298e6f482)
+![Constructing MST](https://github.com/user-attachments/assets/398db85f-5451-41ef-a905-865b8a945430)
+![MST](https://github.com/user-attachments/assets/8a89ccba-4ca8-4e2c-ba35-e79466134f79)
+![Cost Matrix](https://github.com/user-attachments/assets/e3cb549e-98eb-49a4-bec3-b79b95e39459)
+
 
 
 
