@@ -30,6 +30,18 @@
 ![init](https://github.com/user-attachments/assets/6535aa12-fe6d-4c5b-974b-9def76565a3d)
 ![apply](https://github.com/user-attachments/assets/7ec1469d-1458-4253-bece-ce1d24614b1b)
 ![main.tf](https://github.com/user-attachments/assets/ae924f6b-4a20-44bc-b0db-51149b72bb8c)
+![Notion](https://github.com/user-attachments/assets/016942c5-213f-4f6c-b52f-f5aedd5370af)
+![DAA Process](https://github.com/user-attachments/assets/72b909d5-e658-4399-bbe3-b213664aa542)
+![Analysis Framework](https://github.com/user-attachments/assets/4f686b37-3851-446f-81b3-0be8c1f6a120)
+![Operation freq chart](https://github.com/user-attachments/assets/0c68b0f8-dba7-4fb5-8d46-626740f2ba7b)
+![Basic ops](https://github.com/user-attachments/assets/05fe21a6-76cf-498b-9dc2-7e6ff057e687)
+![Order of growth](https://github.com/user-attachments/assets/88932ef4-e51d-4188-b0b8-820ebbc43bb9)
+![Order of growth graph](https://github.com/user-attachments/assets/c5285c39-17bd-405d-b877-8c891562ae4c)
+![Asymptotic notations](https://github.com/user-attachments/assets/5f89c244-39af-4bfa-9992-e8a4d636ab13)
+
+
+
+
 
 
 
